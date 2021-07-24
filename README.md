@@ -42,7 +42,8 @@ To get a local copy up and running follow these simple example steps.
 ### Installation
 
 1. Download all files to the same working directory
-2. 
+2. Two .py files exist, a regressor and a classifier approach to solving this trimodal packing problem.
+2. Each .py file has comments on what to change.
 
 <!-- USAGE EXAMPLES -->
 ## Usage

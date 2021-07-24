@@ -55,7 +55,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Jason Hall - jason.hall@ngc.com
 
 Project Link: [https://github.com/MrJasonBear/Particlepacking](https://github.com/MrJasonBear/Particlepacking)
-[DOI 10.5281/zenodo.5132822](https://zenodo.org/badge/latestdoi/356072180)
+DOI:[10.5281/zenodo.5132822](https://zenodo.org/badge/latestdoi/356072180)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements

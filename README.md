@@ -14,7 +14,6 @@
   <ol>
     <li><a href="#about-the-project">About The Project</a>
     <li><a href="#getting-started">Getting Started</a>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
@@ -44,14 +43,6 @@ To get a local copy up and running follow these simple example steps.
 2. Two .py files exist, a regressor and a classifier approach to solving this trimodal packing problem.
 3. Each .py file has comments on what to change to evaluate the different generation of data.
 4. The end of the classifier model has a set of code to add in additional cases to determine their packing predictions for new cases to evaluate.
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
 
 <!-- LICENSE -->
 ## License
